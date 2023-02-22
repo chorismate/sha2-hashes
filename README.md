@@ -1,5 +1,5 @@
 # sha2-hashes
-Fast SHA-2 hashing in x86 assembly, based on code by (Nayuki)[https://github.com/nayuki].
+Fast SHA-2 hashing in x86 assembly, based on code by [Nayuki](https://github.com/nayuki).
 
 ## Benchmarks
 Working on it.
